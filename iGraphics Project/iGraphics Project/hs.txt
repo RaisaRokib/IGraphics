@@ -1,0 +1,4 @@
+samit 3000
+samina 1500
+sojib 1200
+ani 1000
